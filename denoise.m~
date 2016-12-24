@@ -57,4 +57,3 @@ disp('PSNR value for Even mask size is: ');
 disp(PSNRE);
 disp('Best Mask Size is: ');
 disp(maske);
-
