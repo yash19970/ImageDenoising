@@ -16,11 +16,12 @@
     6.2 Digital Image Segmentation Using Median Filtering and Morphological Approach Pinaki Pratim Acharjya, Soumya Mukherjee ,Department of CSE, B.I.T.M, India<br />
 
 ### Hardware Requirements
-* OS: Windows /Ubuntu.<br />
-* Matlab Supportable RAM.<br />
+	* OS: Windows /Ubuntu.<br />
+	* Matlab Supportable RAM.<br />
 
 ### Software Requirements
-* Matlab 11<br />
+	* Matlab 11<br />
+
 ### Before Denoising 
 
 #### Noisy Image:
@@ -29,8 +30,8 @@
 ![alt tag](https://github.com/yash19970/ImageDenoising/blob/master/sp.png)
 <br/>
 ### Authors
-* Yash Jain
-* Vatsal Shrivastav
+	* Yash Jain
+	* Vatsal Shrivastav
 <br/>
 ### License
 
