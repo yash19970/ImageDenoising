@@ -1,12 +1,6 @@
-#YASH JAIN
+# Image Denoiser.
 
-
-
-README
-	Course: Image and Vision Computing.
-	Fall sem 2016-2017, VIT-Chennai
-	Project Title: Image Denoising.
-> Instructions
+## Instructions:
 1. Open the Folder containing the Matlab code.<br />
 2. Main code is in:  Denoise.m<br />
 3. Run the matlab code in Matlab 11, by adding a path to it.<br />
@@ -34,7 +28,9 @@ README
 * Matlab 11<br />
 ### Before Denoising 
 
+#### Noisy Image:
 ![alt tag](https://github.com/yash19970/ImageDenoising/blob/master/cameraman.jpg)
+#### Denoised Image:
 ![alt tag](https://github.com/yash19970/ImageDenoising/blob/master/sp.png)
 Code: www.github.com/yash19970/ImageDenoising
 
