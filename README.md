@@ -32,7 +32,9 @@
 ### Authors
  * Yash Jain
  * Vatsal Shrivastav
+
 <br/>
+
 ### License
 
 This project is licensed under the MIT License.
