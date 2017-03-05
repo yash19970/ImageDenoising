@@ -14,11 +14,6 @@
 	Prateek Kumar Garg, Pushpneel Verma, Ankur Bhardwaz<br />
     Department of Computer Science and Engineering Bhagwant Institute of Technology, Muzaffarnagar, Uttar Pradesh, INDIA
     6.2 Digital Image Segmentation Using Median Filtering and Morphological Approach Pinaki Pratim Acharjya, Soumya Mukherjee ,Department of CSE, B.I.T.M, India<br />
-7. submitted to/ Under guidance of: Dr. G.Malathi(SCSE,VIT-C)<br />
-8. Submitted by: <br />
-	8.1 YASH JAIN 14BCE 1138.<br />
-	8.2 VATSAL SHRIVASTAV	14BCE 1188.<br />
-9. Email: yash19970@gmail.com<br />
 
 ### Hardware Requirements
 * OS: Windows /Ubuntu.<br />
@@ -33,6 +28,9 @@
 #### Denoised Image:
 ![alt tag](https://github.com/yash19970/ImageDenoising/blob/master/sp.png)
 <br/>
+### Authors
+* Yash Jain
+* Vatsal Shrivastav
 ### License
 
 This project is licensed under the MIT License.
