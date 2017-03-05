@@ -34,7 +34,8 @@ README
 * Matlab 11<br />
 ### Before Denoising 
 
-![alt tag](https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwjRpZjrxr7SAhXEt48KHeDwC-oQjRwIBw&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2F283174957_fig6_Example-of-the-Cameraman-image-Original-image-a-Noisy-image-b-TM-denoising-c&psig=AFQjCNElpXA8KX147rYdcsa1Cfu9gLmSvg&ust=1488775437970707)
+![alt tag](https://github.com/yash19970/ImageDenoising/blob/master/cameraman.jpg)
+![alt tag](https://github.com/yash19970/ImageDenoising/blob/master/sp.png)
 Code: www.github.com/yash19970/ImageDenoising
 
 End Of README.
