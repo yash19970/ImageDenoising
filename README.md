@@ -19,7 +19,7 @@ README
 	6.1. A Survey Paper on Various Median Filtering Techniques for Noise Removal from Digital Image.
 	Prateek Kumar Garg, Pushpneel Verma, Ankur Bhardwaz<br />
     Department of Computer Science and Engineering Bhagwant Institute of Technology, Muzaffarnagar, Uttar Pradesh, INDIA
-    6.2 Digital Image Segmentation Using Median Filtering and Morphological Approach    Pinaki Pratim Acharjya, Soumya Mukherjee ,Department of CSE, B.I.T.M, India<br />
+    6.2 Digital Image Segmentation Using Median Filtering and Morphological Approach Pinaki Pratim Acharjya, Soumya Mukherjee ,Department of CSE, B.I.T.M, India<br />
 7. submitted to/ Under guidance of: Dr. G.Malathi(SCSE,VIT-C)<br />
 8. Submitted by: <br />
 	8.1 YASH JAIN 14BCE 1138.<br />
@@ -29,9 +29,12 @@ README
 ### Hardware Requirements
 * OS: Windows /Ubuntu.<br />
 * Matlab Supportable RAM.<br />
+
 ### Software Requirements
 * Matlab 11<br />
+### Before Denoising 
 
+![alt tag](https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwjRpZjrxr7SAhXEt48KHeDwC-oQjRwIBw&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2F283174957_fig6_Example-of-the-Cameraman-image-Original-image-a-Noisy-image-b-TM-denoising-c&psig=AFQjCNElpXA8KX147rYdcsa1Cfu9gLmSvg&ust=1488775437970707)
 Code: www.github.com/yash19970/ImageDenoising
 
 End Of README.
